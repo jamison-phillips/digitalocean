@@ -1,4 +1,4 @@
-module github.com/caddy-dns/digitalocean
+module github.com/jamison-phillips/digitalocean
 
 go 1.17
 

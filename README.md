@@ -53,5 +53,5 @@ Then build caddy:
 
 ```
 xcaddy build \
-    --with github.com/caddy-dns/digitalocean@master
+    --with github.com/jamison-phillips/digitalocean@master
 ```
